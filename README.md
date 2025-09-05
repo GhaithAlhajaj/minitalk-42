@@ -1,7 +1,5 @@
 # 🗣️ minitalk-42
 
-![Minitalk Banner](https://user-images.githubusercontent.com/yourusername/minitalk_banner.png)
-
 > **minitalk-42** is a minimalist messaging application developed as part of the 42 School curriculum. It facilitates inter-process communication using UNIX signals, enabling a client to send messages to a server.
 
 ---
